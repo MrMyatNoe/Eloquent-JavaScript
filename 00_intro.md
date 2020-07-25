@@ -1,33 +1,34 @@
 {{meta {load_files: ["code/intro.js"]}}}
 
+# နိဒါန်း
+
 # Introduction
 
 {{quote {author: "Ellen Ullman", title: "Close to the Machine: Technophilia and its Discontents", chapter: true}
 
-We think we are creating the system for our own purposes. We believe
-we are making it in our own image... But the computer is not really
-like us. It is a projection of a very slim part of ourselves: that
-portion devoted to logic, order, rule, and clarity.
+ကျွန်ုပ်တို့ဟာ ကွန်ပျူတာနည်းစနစ်တွေကို ကျွန်ုပ်တို့ရဲ့ ကိုယ်ပိုင်အမြင်တွေနဲ့ ဖန်တီးကြတယ်။ ထိုနည်းစနစ်တွေကို ကျွန်ုပ်တို့ ကိုယ်ပိုင်နည်းလမ်းဖြင့် ဖန်တီးထားတယ်လို့ ယုံကြည်ကြတယ်။... ဒါပေမဲ့ ကွန်ပျူတာတွေဟာ ကျွန်ုပ်တို့နဲ့ မတူညီကြဘူး။ သူတို့တွေဟာ ကျွန်ုပ်တို့ရဲ့ တစ်စိတ်တစ်ပိုင်း အဖြစ်သာ အရိပ်ပြန်ထင်ဟပ်မှုတွေသာဖြစ်တယ်။  ထိုအစိတ်အပိုင်းလေးတွေဟာ logic(ယုတ္တိဗေဒ)၊ order(အမိန့်)၊ rule(စည်းမျဉ်းစည်းကမ်း) နှင့် clarity(ရှင်းလင်းပြတ်သားမှု) ဆိုတဲ့ အချက်တွေကို လိုက်နာကြတယ်။
+
+We think we are creating the system for our own purposes. We believe we are making it in our own image... But the computer is not really like us. It is a projection of a very slim part of ourselves: that portion devoted to logic, order, rule, and clarity.
 
 quote}}
 
 {{figure {url: "img/chapter_picture_00.jpg", alt: "Picture of a screwdriver and a circuit board", chapter: "framed"}}}
 
-This is a book about instructing ((computer))s. Computers are about as
-common as screwdrivers today, but they are quite a bit more complex,
-and making them do what you want them to do isn't always easy.
+ဤစာအုပ်ဟာ ကွန်ပျူတာတွေကိုဘယ်လို ညွှန်ကြားအသုံးချရမလဲဆိုတဲ့ အကြောင်းတွေပါမှာပါ။ ကွန်ပျူတာတွေဟာ အခုခေတ်အခါမှာ ဝက်အူလှည့်တွေပေါများသလို ပေါများနေပါပြီ၊ ဒါပေမဲ့ သူတို့တွေဟာ ပိုပြီးတော့ ရှုပ်ထွေးကြပါတယ်။ ထို့နောက် ကွန်ပျူတာတွေကို ကိုယ်လိုသလို ခိုင်းနိုင်ဖို့အတွက်ဆိုရင် အမြဲထင်သလောက် မလွယ်ကူလှပါဘူး။
 
-If the task you have for your computer is a common, well-understood
-one, such as showing you your email or acting like a calculator, you
-can open the appropriate ((application)) and get to work. But for
-unique or open-ended tasks, there probably is no application.
+This is a book about instructing ((computer))s. Computers are about as common as screwdrivers today, but they are quite a bit more complex, and making them do what you want them to do isn't always easy.
 
-That is where ((programming)) may come in. _Programming_ is the act of
-constructing a _program_—a set of precise instructions telling a
-computer what to do. Because computers are dumb, pedantic beasts,
-programming is fundamentally tedious and frustrating.
+အကယ်၍ သင်က ကွန်ပျူတာကိုခိုင်းစေချင်တဲ့ အလုပ်က ပုံမှန်လုပ်နေကြအလုပ်မျိုး၊ တိတိကျကျခိုင်းနိုင်တဲ့အလုပ်မျိုး ဖြစ်တဲ့ အီးမေးလ်များစစ်ခြင်း၊ ကိန်းဂဏန်းများတွက်ချက်ခြင်း သာဖြစ်ခဲ့ရင် သတ်ဆိုင်တဲ့ Application ကိုဖွင့်၍ လုပ်ဆောင်နိုင်ပါတယ်။ သို့ပေမဲ့ မတူညီတဲ့၊ ရလဒ်မသေချာတဲ့ အလုပ်များအတွက်တော့ ကြိုရေးထားတဲ့ Applicationများ မရှိတာများပါတယ်။
+
+If the task you have for your computer is a common, well-understood one, such as showing you your email or acting like a calculator, you can open the appropriate ((application)) and get to work. But for unique or open-ended tasks, there probably is no application.
+
+ထို့အတွက် programming ဆိုတာရှိနေချင်းဖြစ်ပါတယ်။ *Programming* ဆိုတာ ကွန်ပျူတာကို တိကျတဲ့ လမ်းညွှန်ချက်တွေပေးပြီး ခိုင်းစေတဲ့နည်းတစ်ခုဖြစ်ပါတယ်။ ကွန်ပျူတာတွေဟာ အကုန်အသေးစိတ်လိုက်ခိုင်းနေရတဲ့ နုံအတဲ့ သတ္တဝါလေးလိုပါပဲ။ အဲ့ဒါကြောင့် programming ဟာ ငြီးငွေ့ပြီးတော့ စိတ်ရှုပ်ဖို့ကောင်းလှပါတယ်။
+
+That is where ((programming)) may come in. *Programming* is the act of constructing a *program*—a set of precise instructions telling a computer what to do. Because computers are dumb, pedantic beasts, programming is fundamentally tedious and frustrating.
 
 {{index [programming, "joy of"], speed}}
+
+အကယ်၍ သင်သာထိုအချက်တွေကို ကြော်လွှားနိုင်ပြီးတော့ နုံအတဲ့စက်တွေ တွေးသလို လိုက်ပြီးတွေးခေါ်ရတာကို နှစ်ခြိုက်နိုင်ရင် programming ဆိုတာ သင့်အတွက်တော့ ဆုလဒ်တစ်ခု ဖြစ်လာပါလိမ့်မယ်။ သင်ဟာ လက်နဲ့မပြီးတော့လောက်အောင် အကြာကြီးလုပ်နေရတဲ့အလုပ်တွေကို စကန့်ပိုင်းအတွင်းမှာပြီးမြောက်အောင် လုပ်နိုင်လာပါလိမ့်မယ်။ သင်ဟာ ကွန်ပျူတာကို အရင်ကလုပ်လို့မရဘူးလို့ထင်ရတာတွေကို လုပ်နိုင်အောင် ခိုင်းတတ်လာပါလိမ့်မယ်။ ဤအရာဟာ သင့်အတွက် ခွဲခြမ်းစိမ်ဖြာပြီး တွေးခေါ်နိုင်စွမ်းတွေပေးမှာပါ။
 
 Fortunately, if you can get over that fact, and maybe even enjoy the rigor
 of thinking in terms that dumb machines can deal with, programming can
@@ -35,6 +36,8 @@ be rewarding. It allows you to do things in seconds that would take
 _forever_ by hand. It is a way to make your computer tool
 do things that it couldn't do before. And it provides a wonderful
 exercise in abstract thinking.
+
+Programming အများစုဟာ programming languages(ဘာသာစကားမျိုးစုံ)ဖြင့် လုပ်ဆောင်နိုင်ပါတယ်။ Programming language တစ်ခုဟာ ကွန်ပျူတာတွေကို ခိုင်းစေဖို့အတွက် ပြုလုပ်ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ ကွန်ပျူတာတွေနဲ့ ချိတ်ဆက်ဖို့ အဆင်ပြေဆုံးနည်းလမ်းဟာ ကျွန်ုပ်တို့ လူတွေအချင်းချင်း ဆက်သွယ်တဲ့နည်းနဲ့ အတော်များများ တူညီနေတာဟာ စိတ်ဝင်စားစရာလေးပါ။ လူတွေပြောအသုံးပြုတဲ့ ဘာသာစကားတွေလိုပါပဲ ကွန်ပျူတာ ဘာသာစကားတွေမှာ words(စကားလုံးတွေ)၊ phrases(စာပိုဒ်တွေ) ကို တစ်မျိုးတစ်ဖုံဖွဲ့စည်းထားပြီးတော့ သဘောတရားအသစ်တွေ တွေးခေါ်နည်းအသစ်တွေ ဖြစ်ပေါ်လာစေပါတယ်။
 
 Most programming is done with ((programming language))s. A _programming
 language_ is an artificially constructed language used to instruct
@@ -58,6 +61,8 @@ available on almost every device.
 
 This book will try to make you familiar enough with this language to
 do useful and amusing things with it.
+
+## Programming အကြောင်း
 
 ## On programming
 
@@ -150,7 +155,7 @@ developed in practice, not learned from a list of rules.
 In the beginning, at the birth of computing, there were no programming
 languages. Programs looked something like this:
 
-```{lang: null}
+```{lang:
 00110001 00000000 00000000
 00110001 00000001 00000001
 00110011 00000001 00000010
@@ -185,16 +190,16 @@ satisfaction.
 Each line of the previous program contains a single instruction. It
 could be written in English like this:
 
- 1. Store the number 0 in memory location 0.
- 2. Store the number 1 in memory location 1.
- 3. Store the value of memory location 1 in memory location 2.
- 4. Subtract the number 11 from the value in memory location 2.
- 5. If the value in memory location 2 is the number 0,
-    continue with instruction 9.
- 6. Add the value of memory location 1 to memory location 0.
- 7. Add the number 1 to the value of memory location 1.
- 8. Continue with instruction 3.
- 9. Output the value of memory location 0.
+1. Store the number 0 in memory location 0.
+2. Store the number 1 in memory location 1.
+3. Store the value of memory location 1 in memory location 2.
+4. Subtract the number 11 from the value in memory location 2.
+5. If the value in memory location 2 is the number 0,
+   continue with instruction 9.
+6. Add the value of memory location 1 to memory location 0.
+7. Add the number 1 to the value of memory location 1.
+8. Continue with instruction 3.
+9. Output the value of memory location 0.
 
 {{index readability, naming, binding}}
 
@@ -202,7 +207,7 @@ Although that is already more readable than the soup of bits, it is
 still rather obscure. Using names instead of numbers for the
 instructions and memory locations helps.
 
-```{lang: "text/plain"}
+```{lang:
  Set “total” to 0.
  Set “count” to 1.
 [loop]
@@ -268,7 +273,7 @@ have the convenient operations `range` and `sum` available, which
 respectively create a ((collection)) of numbers within a range and
 compute the sum of a collection of numbers:
 
-```{startCode: true}
+```{startCode:
 console.log(sum(range(1, 10)));
 // → 55
 ```
