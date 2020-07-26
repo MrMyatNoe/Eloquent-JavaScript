@@ -37,7 +37,7 @@ _forever_ by hand. It is a way to make your computer tool
 do things that it couldn't do before. And it provides a wonderful
 exercise in abstract thinking.
 
-Programming အများစုဟာ programming languages(ဘာသာစကားမျိုးစုံ)ဖြင့် လုပ်ဆောင်နိုင်ပါတယ်။ Programming language တစ်ခုဟာ ကွန်ပျူတာတွေကို ခိုင်းစေဖို့အတွက် ပြုလုပ်ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ ကွန်ပျူတာတွေနဲ့ ချိတ်ဆက်ဖို့ အဆင်ပြေဆုံးနည်းလမ်းဟာ ကျွန်ုပ်တို့ လူတွေအချင်းချင်း ဆက်သွယ်တဲ့နည်းနဲ့ အတော်များများ တူညီနေတာဟာ စိတ်ဝင်စားစရာလေးပါ။ လူတွေပြောအသုံးပြုတဲ့ ဘာသာစကားတွေလိုပါပဲ ကွန်ပျူတာ ဘာသာစကားတွေမှာ words(စကားလုံးတွေ)၊ phrases(စာပိုဒ်တွေ) ကို တစ်မျိုးတစ်ဖုံဖွဲ့စည်းထားပြီးတော့ သဘောတရားအသစ်တွေ တွေးခေါ်နည်းအသစ်တွေ ဖြစ်ပေါ်လာစေပါတယ်။
+Programming အများစုဟာ programming languages(ဘာသာစကားမျိုးစုံ)ဖြင့် လုပ်ဆောင်နိုင်ပါတယ်။ Programming language တစ်ခုဟာ ကွန်ပျူတာတွေကို ခိုင်းစေဖို့အတွက် ပြုလုပ်ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ ကွန်ပျူတာတွေနဲ့ ချိတ်ဆက်ဖို့ အဆင်ပြေဆုံးနည်းလမ်းဟာ ကျွန်ုပ်တို့ လူတွေအချင်းချင်း ဆက်သွယ်တဲ့နည်းနဲ့ အတော်များများ တူညီနေတာဟာ စိတ်ဝင်စားစရာလေးပါ။ လူတွေပြောအသုံးပြုတဲ့ ဘာသာစကားတွေလိုပါပဲ Computer Languages (ကွန်ပျူတာ ဘာသာစကား)တွေမှာ words(စကားလုံးတွေ)၊ phrases(စာပိုဒ်တွေ) ကို တစ်မျိုးတစ်ဖုံဖွဲ့စည်းထားပြီးတော့ သဘောတရားအသစ်တွေ တွေးခေါ်နည်းအသစ်တွေ ဖြစ်ပေါ်လာစေပါတယ်။
 
 Most programming is done with ((programming language))s. A _programming
 language_ is an artificially constructed language used to instruct
@@ -49,6 +49,8 @@ express ever new concepts.
 
 {{index [JavaScript, "availability of"], "casual computing"}}
 
+အရင် ၁၉၈၀ - ၁၉၉၀ ကာလတွေမှာ Language-based Interfaces(စာသားအခြေခံသုံး စနစ်) ဖြစ်တဲ့ BASIC နဲ့ DOS တို့က ကွန်ပျူတာတွေကို ခိုင်းစေဖို့သုံးတဲ့ အဓိက နည်းလမ်းတွေဖြစ်ခဲ့ကြတယ်။ နောက်ပိုင်းမှာ သူတို့ကို visual interfaces(ရုပ်ပုံအခြေခံသုံး စနစ်) တွေနဲ့ ပြောင်းသုံးလာကြတယ်။ သုံးရတာပိုလွယ်လာပေမဲ့ ကွန်ပျူတာတွေကို အပြည့်အဝထိန်းချုပ်ပိုင်ခွင့် နည်းပါးလာတယ်။ ကွန်ပျူတာဘာသာစကား တွေကရှိနေတုန်းပါပဲ၊ ဘယ်မှာရှာရမလဲဆိုတာကို သိဖို့ပဲလိုတာပါ။ အဲ့လို့ ဘာသာစကားတွေထဲက တစ်ခုဖြစ်တဲ့ Javascript ကတော့ အခုကာလ Web Browser တွေမှာအသုံးပြုဖို့ ဖန်တီးထားပါတယ်။ Web Browser တွေအတွက် ဖန်တီးထားတာကြောင့် စက်တိုင်းနီးပါမှာ တွေ့နိုင်ပါတယ်။
+
 At one point language-based interfaces, such as the BASIC and DOS
 prompts of the 1980s and 1990s, were the main method of interacting with
 computers. They have largely been replaced with visual interfaces,
@@ -58,6 +60,8 @@ JavaScript, is built into every modern web ((browser)) and is thus
 available on almost every device.
 
 {{indexsee "web browser", browser}}
+
+ဤစာအုပ်မှာ သင့်ကို Javascript နှင့် အသုံးဝင်တာတွေ၊ စိတ်ဝင်စားစရာကောင်းတာတွေလုပ်တဲ့ထိ ရင်းနီးသွားအောင် လမ်းပြပေးသွားပါမယ်။
 
 This book will try to make you familiar enough with this language to
 do useful and amusing things with it.
