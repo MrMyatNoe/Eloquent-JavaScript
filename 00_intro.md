@@ -14,21 +14,21 @@ quote}}
 
 {{figure {url: "img/chapter_picture_00.jpg", alt: "Picture of a screwdriver and a circuit board", chapter: "framed"}}}
 
-ဤစာအုပ်ဟာ ကွန်ပျူတာတွေကိုဘယ်လို ညွှန်ကြားအသုံးချရမလဲဆိုတဲ့ အကြောင်းတွေပါမှာပါ။ ကွန်ပျူတာတွေဟာ အခုခေတ်အခါမှာ ဝက်အူလှည့်တွေပေါများသလို ပေါများနေပါပြီ၊ ဒါပေမဲ့ သူတို့တွေဟာ ပိုပြီးတော့ ရှုပ်ထွေးကြပါတယ်။ ထို့နောက် ကွန်ပျူတာတွေကို ကိုယ်လိုသလို ခိုင်းနိုင်ဖို့အတွက်ဆိုရင် အမြဲထင်သလောက် မလွယ်ကူလှပါဘူး။
+ဤစာအုပ်မှာ ကွန်ပျူတာတွေကိုဘယ်လို ညွှန်ကြားအသုံးချရမလဲဆိုတဲ့ အကြောင်းတွေပါမှာပါ။ ကွန်ပျူတာတွေဟာ အခုခေတ်အခါမှာ ဝက်အူလှည့်တွေပေါများသလို ပေါများနေပါပြီ၊ ဒါပေမဲ့ သူတို့တွေဟာ ပိုပြီးတော့ ရှုပ်ထွေးကြပါတယ်။ ထို့နောက် ကွန်ပျူတာတွေကို ကိုယ်လိုသလို ခိုင်းနိုင်ဖို့အတွက်ဆိုရင် အမြဲထင်သလောက် မလွယ်ကူလှပါဘူး။
 
 This is a book about instructing ((computer))s. Computers are about as common as screwdrivers today, but they are quite a bit more complex, and making them do what you want them to do isn't always easy.
 
-အကယ်၍ သင်က ကွန်ပျူတာကိုခိုင်းစေချင်တဲ့ အလုပ်က ပုံမှန်လုပ်နေကြအလုပ်မျိုး၊ တိတိကျကျခိုင်းနိုင်တဲ့အလုပ်မျိုး ဖြစ်တဲ့ အီးမေးလ်များစစ်ခြင်း၊ ကိန်းဂဏန်းများတွက်ချက်ခြင်း သာဖြစ်ခဲ့ရင် သတ်ဆိုင်တဲ့ Application ကိုဖွင့်၍ လုပ်ဆောင်နိုင်ပါတယ်။ သို့ပေမဲ့ မတူညီတဲ့၊ ရလဒ်မသေချာတဲ့ အလုပ်များအတွက်တော့ ကြိုရေးထားတဲ့ Applicationများ မရှိတာများပါတယ်။
+အကယ်၍ သင်က ကွန်ပျူတာကိုခိုင်းစေချင်တဲ့ အလုပ်က ပုံမှန်လုပ်နေကြအလုပ်မျိုး၊ တိတိကျကျခိုင်းနိုင်တဲ့အလုပ်မျိုး ဖြစ်တဲ့ အီးမေးလ်များစစ်ခြင်း၊ ကိန်းဂဏန်းများတွက်ချက်ခြင်း သာဖြစ်ခဲ့ရင် သက်ဆိုင်တဲ့ Application ကိုဖွင့်၍ လုပ်ဆောင်နိုင်ပါတယ်။ သို့ပေမဲ့ မတူညီတဲ့၊ ရလဒ်မသေချာတဲ့ အလုပ်များအတွက်တော့ ကြိုရေးထားတဲ့ Applicationများ မရှိတာများပါတယ်။
 
 If the task you have for your computer is a common, well-understood one, such as showing you your email or acting like a calculator, you can open the appropriate ((application)) and get to work. But for unique or open-ended tasks, there probably is no application.
 
-ထို့အတွက် programming ဆိုတာရှိနေချင်းဖြစ်ပါတယ်။ *Programming* ဆိုတာ ကွန်ပျူတာကို တိကျတဲ့ လမ်းညွှန်ချက်တွေပေးပြီး ခိုင်းစေတဲ့နည်းတစ်ခုဖြစ်ပါတယ်။ ကွန်ပျူတာတွေဟာ အကုန်အသေးစိတ်လိုက်ခိုင်းနေရတဲ့ နုံအတဲ့ သတ္တဝါလေးလိုပါပဲ။ အဲ့ဒါကြောင့် programming ဟာ ငြီးငွေ့ပြီးတော့ စိတ်ရှုပ်ဖို့ကောင်းလှပါတယ်။
+ထို့အတွက် programming ဆိုတာရှိနေခြင်းဖြစ်ပါတယ်။ *Programming* ဆိုတာ ကွန်ပျူတာကို တိကျတဲ့ လမ်းညွှန်ချက်တွေပေးပြီး ခိုင်းစေတဲ့နည်းတစ်ခုဖြစ်ပါတယ်။ ကွန်ပျူတာတွေဟာ အကုန်အသေးစိတ်လိုက်ခိုင်းနေရတဲ့ နုံအတဲ့ သတ္တဝါလေးလိုပါပဲ။ အဲ့ဒါကြောင့် programming ဟာ ငြီးငွေ့ပြီးတော့ စိတ်ရှုပ်ဖို့ကောင်းလှပါတယ်။
 
 That is where ((programming)) may come in. *Programming* is the act of constructing a *program*—a set of precise instructions telling a computer what to do. Because computers are dumb, pedantic beasts, programming is fundamentally tedious and frustrating.
 
 {{index [programming, "joy of"], speed}}
 
-အကယ်၍ သင်သာထိုအချက်တွေကို ကြော်လွှားနိုင်ပြီးတော့ နုံအတဲ့စက်တွေ တွေးသလို လိုက်ပြီးတွေးခေါ်ရတာကို နှစ်ခြိုက်နိုင်ရင် programming ဆိုတာ သင့်အတွက်တော့ ဆုလဒ်တစ်ခု ဖြစ်လာပါလိမ့်မယ်။ သင်ဟာ လက်နဲ့မပြီးတော့လောက်အောင် အကြာကြီးလုပ်နေရတဲ့အလုပ်တွေကို စကန့်ပိုင်းအတွင်းမှာပြီးမြောက်အောင် လုပ်နိုင်လာပါလိမ့်မယ်။ သင်ဟာ ကွန်ပျူတာကို အရင်ကလုပ်လို့မရဘူးလို့ထင်ရတာတွေကို လုပ်နိုင်အောင် ခိုင်းတတ်လာပါလိမ့်မယ်။ ဤအရာဟာ သင့်အတွက် ခွဲခြမ်းစိမ်ဖြာပြီး တွေးခေါ်နိုင်စွမ်းတွေပေးမှာပါ။
+အကယ်၍ သင်သာထိုအချက်တွေကို ကျော်လွှားနိုင်ပြီးတော့ နုံအတဲ့စက်တွေ တွေးသလို လိုက်ပြီးတွေးခေါ်ရတာကို နှစ်ခြိုက်နိုင်ရင် programming ဆိုတာ သင့်အတွက်တော့ ဆုလာဘ်တစ်ခု ဖြစ်လာပါလိမ့်မယ်။ သင်ဟာ လက်နဲ့မပြီးတော့လောက်အောင် အကြာကြီးလုပ်နေရတဲ့အလုပ်တွေကို စက္ကန့်ပိုင်းအတွင်းမှာပြီးမြောက်အောင် လုပ်နိုင်လာပါလိမ့်မယ်။ သင်ဟာ ကွန်ပျူတာကို အရင်ကလုပ်လို့မရဘူးလို့ထင်ရတာတွေကို လုပ်နိုင်အောင် ခိုင်းတတ်လာပါလိမ့်မယ်။ ဤအရာဟာ သင့်အတွက် ခွဲခြမ်းစိပ်ဖြာပြီး တွေးခေါ်နိုင်စွမ်းတွေပေးမှာပါ။
 
 Fortunately, if you can get over that fact, and maybe even enjoy the rigor
 of thinking in terms that dumb machines can deal with, programming can
@@ -37,7 +37,7 @@ _forever_ by hand. It is a way to make your computer tool
 do things that it couldn't do before. And it provides a wonderful
 exercise in abstract thinking.
 
-Programming အများစုဟာ programming languages(ဘာသာစကားမျိုးစုံ)ဖြင့် လုပ်ဆောင်နိုင်ပါတယ်။ Programming language တစ်ခုဟာ ကွန်ပျူတာတွေကို ခိုင်းစေဖို့အတွက် ပြုလုပ်ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ ကွန်ပျူတာတွေနဲ့ ချိတ်ဆက်ဖို့ အဆင်ပြေဆုံးနည်းလမ်းဟာ ကျွန်ုပ်တို့ လူတွေအချင်းချင်း ဆက်သွယ်တဲ့နည်းနဲ့ အတော်များများ တူညီနေတာဟာ စိတ်ဝင်စားစရာလေးပါ။ လူတွေပြောအသုံးပြုတဲ့ ဘာသာစကားတွေလိုပါပဲ Computer Languages (ကွန်ပျူတာ ဘာသာစကား)တွေမှာ words(စကားလုံးတွေ)၊ phrases(စာပိုဒ်တွေ) ကို တစ်မျိုးတစ်ဖုံဖွဲ့စည်းထားပြီးတော့ သဘောတရားအသစ်တွေ တွေးခေါ်နည်းအသစ်တွေ ဖြစ်ပေါ်လာစေပါတယ်။
+Programming အများစုဟာ programming languages(ဘာသာစကားမျိုးစုံ)ဖြင့် လုပ်ဆောင်နိုင်ပါတယ်။ Programming language တစ်ခုဟာ ကွန်ပျူတာတွေကို ခိုင်းစေဖို့အတွက် ပြုလုပ်ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ ကွန်ပျူတာတွေနဲ့ ချိတ်ဆက်ဖို့ အဆင်ပြေဆုံးနည်းလမ်းဟာ ကျွန်ုပ်တို့ လူတွေအချင်းချင်း ဆက်သွယ်တဲ့နည်းနဲ့ အတော်များများ တူညီနေတာဟာ စိတ်ဝင်စားစရာလေးပါ။ လူတွေပြောဆိုအသုံးပြုတဲ့ ဘာသာစကားတွေလိုပါပဲ Computer Languages (ကွန်ပျူတာ ဘာသာစကား)တွေမှာ words(စကားလုံးတွေ)၊ phrases(စာပိုဒ်တွေ) ကို တစ်မျိုးတစ်ဖုံဖွဲ့စည်းထားပြီးတော့ သဘောတရားအသစ်တွေ တွေးခေါ်နည်းအသစ်တွေ ဖြစ်ပေါ်လာစေပါတယ်။
 
 Most programming is done with ((programming language))s. A _programming
 language_ is an artificially constructed language used to instruct
@@ -72,6 +72,8 @@ do useful and amusing things with it.
 
 {{index [programming, "difficulty of"]}}
 
+Javascript ကို အရင်မရှင်းပြခင်မှာ Programming အကြောင်းအခြေခံ အရင်ရှင်းပြပါမယ်။ Programming မှာ တကယ်တော့ခက်ခဲပါတယ်။ အခြေခံစည်းမျဉ်းတွေက လွယ်ကူပေမဲ့ ဒီအခြေခံ စည်းမျဉ်းတွေပေါ် မူတည်ပြီး ဖန်တီးထားတဲ့ program တွေ တောင် အချိန်နဲ့အမျှ ရှုပ်ထွေးလာတတ်ပြီးတော့ ကိုယ်ပိုင်စည်းမျဉ်းစည်းကမ်းတွေ ထပ်ဖြစ်ပေါ်လာတတ်ပါတယ်။ တစ်နည်းအားဖြင့် သင်ဟာ သင့်ရဲ့ကိုပိုင် ဝင်္ကပါကို ဖန်တီးနေတာပါ။ ထိုဝင်္ကပါထဲမှာ သင်ကိုယ်တိုင်ပြန်ပြီးတော့ လမ်းပျောက်နိုင်ပါတယ်။
+
 Besides explaining JavaScript, I will introduce the basic
 principles of programming. Programming, it turns out, is hard. The
 fundamental rules are simple and clear, but programs built on top of
@@ -81,10 +83,14 @@ just get lost in it.
 
 {{index learning}}
 
+ဤစာအုပ်ကိုဖတ်ရင်းနဲ့ စိတ်ညစ်လာတဲ့အချိန်တွေလည်းရှိလာနိုင်ပါတယ်။ အကယ်၍ သင်ဟာ programming ကို ပထမဆုံးအကြိမ်လေ့လာတာဆိုရင်တော့ လေ့လာစရာတွေအရမ်းများနေပါလိမ့်မယ်။ သင်ဒီမှာလေ့လာခဲ့တာတွေ တော်တော်များများက နောက်ထပ်သင့်ကိုလမ်းသစ်တွေ ရှာတွေ့အောင်ကူညီးပေးပါလိမ့်မယ်။
+
 There will be times when reading this book feels terribly frustrating.
 If you are new to programming, there will be a lot of new material to
 digest. Much of this material will then be _combined_ in ways that
 require you to make additional connections.
+
+လိုအပ်တဲ့ လုပ်အားကိုစိုက်ထုတ်ရမှာကတော့ သင်ကိုယ်တိုင်ရဲ့ တာဝန်သာဖြစ်ပါတယ်။ စာအုပ်ကိုဖတ်မှတ်ရင်းနဲ့ အခက်အခဲတစ်ခုခုနှင့် ကြုံတွေ့ခဲ့ရင် ကိုယ့်ဘာသာကိုယ် ထင်သလို ကောက်ချက်မချလိုက်ပါနဲ့။ အခက်အခဲကြုံတွေ့တာဟာ ပြဿနာမဟုတ်ပါဘူး အဲ့အတိုင်းပဲခဏထားထားလိုက်ပါ။ ခဏအနားယူလိုက်ပါ။ ပြီးရင် ပြန်ဖတ်ကြည့်ပါ။ နမူနာရေးနည်းတွေ၊ လေ့ကျင့်ခန်းတွေကို သေချာနားလည်လားဆိုတာကို ပြန်လည်စမ်းစစ်ကြည့်ပါ။ တစ်ခုခုကိုလေ့လာရတာဟာ အမြဲခက်ခဲပါတယ် ဒါပေမဲ့ သင်လေ့လာတာတွေအကုန်လုံးက သင့်ရဲ့ကိုယ်ပိုင်တွေကြီးပါပဲ။ အဲ့ဒါတွေက သင်နောက်ထပ်လေ့လာတာတွေကို ပိုမိုလွယ်ကူစေပါလိမ့်။
 
 It is up to you to make the necessary effort. When you are struggling
 to follow the book, do not jump to any conclusions about your own
@@ -98,12 +104,16 @@ easier.
 
 {{index "Le Guin, Ursula K."}}
 
+သင့်လုပ်ရပ်တွေက အကြိုးမရှိဘူးဆိုရင် သတင်းအချက်လက်တွေကိုစုဆောင်းပါ၊ စုဆောင်းထားတဲ့ သတင်းအချက်လက်တွေက အကြိုးမရှိဘူးဆိုရင်တော့ အိပ်လိုက်ပါ။
+
 When action grows unprofitable, gather information; when information
 grows unprofitable, sleep.
 
 quote}}
 
 {{index [program, "nature of"], data}}
+
+Program တစ်ခုဆိုတာဟာ အမျာကြီးဖြစ်နိုင်ပါတယ်။ အဲ့ဒါဟာ Programmer တစ်ယောက် ရေးထားတဲ့ စာတစ်စုဖြစ်နိုင်ပါတယ်။ အဲ့ဒါဟာ ကွန်ပျူတာတစ်ခုကို ပုံမှန်အတိုင်းအလုပ်လုပ်နေအောင် ထိမ်းချုပ်ပေးနေတဲ့ program တစ်ခုလည်းဖြစ်နေနိုင်ပါတယ်။ အဲ့ဒါဟာ ကွန်ပျူတာရဲ့ မှတ်ဉာဏ်ထဲက အချက်အလက်လေးတစ်ခုလည်းဖြစ်နေနိုင်ပါတယ်။ အဲ့လိုပဲ ကွန်ပျူတာ မှတ်ဉာဏ်ကို ထိမ်းချုပ်ပေးနေတဲ့ program တစ်ခုလည်းဖြစ်နေနိုင်ပါတယ်။ ကျွန်ုပ်တို့ သိပြီးသားအရာတွေနဲ့ Program တစ်ခုကိုနှိုင်းယှဉ်ဖို့ဆိုတာမဖြစ်နိုင်ပါဘူး။ အပေါ်ယံတူညီတာကို ပြပါဆိုရင်တော့ စက်တစ်ခုနဲ့ နှိုင်းယှဉ်ကောင်နှိုင်းယှဉ်နိုင်ပါလိမ့်မယ်။ စက်တစ်ခုမှာ မတူညီတဲ့ အစိတ်အပိုင်းလေးတွေ များစွာက စက်တစ်ခုလုံးအလုပ်လုပ်နိုင်အောင်ဆောင်ရွက်ပေးပါတယ်။ ထိုအစိတ်အပိုင်းလေးတွေက တစ်ခုနှင့်တစ်ခု ချိတ်ဆက်ပြီးတော့ စက်ရဲ့ လုပ်ငန်းဆောင်တာကို လုပ်ဆောင်ပေးပါတယ်။
 
 A program is many things. It is a piece of text typed by a programmer,
 it is the directing force that makes the computer do what it does, it
@@ -115,6 +125,8 @@ involved, and to make the whole thing tick, we have to consider the
 ways in which these parts interconnect and contribute to the operation
 of the whole.
 
+ကွန်ပျူတာဆိုတာ ဒီတိုင်းအသုံးပြုလို့မရတဲ့ အစိတ်အပိုင်းလေးတွေထည့်ထားသော စက်ကရိယာတစ်ခုသာဖြစ်ပါတယ်။ ကွန်ပျူတာကြီးပဲ သပ်သပ်ဆိုရင် အရမ်းလွယ်ကူတဲ့ လူတိုင်းလုပ်နိုင်တဲ့ လုပ်ဆောင်ချက်တွေကိုသာ လုပ်ဆောင်ပေးပါလိမ့်မယ်။ ကွန်ပျူတာတွေ အသုံးဝင်နေရတဲ့ အကြောင်းရင်းကတော့ ထိုလုပ်ဆောင်ချက်တွေကို အရမ်းမြန်ဆန်တဲ့ နှုန်းနှင့်လုပ်ဆောင်ပေးနိုင်ခြင်းပဲဖြစ်ပါတယ်။ Program တစ်ခုဟာ အလွန်များပြားတဲ့ လွယ်ကူသောလုပ်ငန်းလေးတွေကို တစ်ပြိုင်ထဲလုပ်ဆောင်ပြီးတော့ ရှုပ်ထွေး လုပ်ငန်းဆောင်တာများကို လုပ်ဆောင်ပေးနိုင်ပါတယ်။
+
 A ((computer)) is a physical machine that acts as a host for these immaterial
 machines. Computers themselves can do only stupidly straightforward
 things. The reason they are so useful is that they do these things at
@@ -124,8 +136,12 @@ complicated things.
 
 {{index [programming, "joy of"]}}
 
+Program တစ်ခုဟာ အတွေးအခေါ်တွေ ပေါင်းစပ်၊ဖွဲ့စည်းထားတာပဲဖြစ်ပါတယ်။ Program တစ်ခုဟာ ကုန်ကျစရိတ်မရှိပါဘူး၊ အလေးချိန်လည်းမရှိပါဘူး၊ ကျွန်ုပ်တို့ရဲ့ စာရိုက်နေတဲ့ လက်ထဲမှာတင်ပဲ လွယ်လွယ်ကူကူ ကြီးထွားလာနိုင်ပါတယ်။
+
 A program is a building of thought. It is costless to build, it is
 weightless, and it grows easily under our typing hands.
+
+သို့ပေမဲ့ သေချာထိမ်းသိမ်းမှုမရှိခဲ့ရင်တော့ program တစ်ခုရဲ့ ပမာဏနဲ့ ရှုပ်ထွေးမှုဟာ ပိုမိုကြီးထွားလာပြီးတော့ ထိမ်းချုပ်ရတာ ခက်ခဲလာပါလိမ့်မယ်။ သူ့ကို ဖန်တီးတီထွင်ခဲ့သူကိုတောင် ရှုပ်ထွေးစေပါလိမ့်မယ်။ Program တွေအများကြီးကို မရှုပ်ထွေးသွားအောင် ထိမ်းသိမ်းရတာဟာ programming ရဲ့ အဓိက ပြဿနာပဲဖြစ်ပါတယ်။ Program တစ်ခုအလုပ်လုပ်ရင် အဲ့ဒါဟာ လှပသောအရာတစ်ခုပါ။ Programming အနုပညာဆိုတာ ရှုပ်ထွေးမှုကို ထိန်းချုပ်နိုင်စွမ်းဖြစ်ပါတယ်။ Program ကောင်းတစ်ခုမှာ ရှုပ်ထွေးမှုကို ရိုးရှင်းအောင်ပြုလုပ်ထားပါတယ်။
 
 But without care, a program's size and ((complexity)) will grow out of
 control, confusing even the person who created it. Keeping programs
@@ -136,6 +152,8 @@ its complexity.
 
 {{index "programming style", "best practices"}}
 
+ရှုပ်ထွေးမှုဆိုတာ သေးငယ်ပြီးတော့ နားလည်ရလွယ်တဲ့ လုပ်ထုံးလုပ်နည်းတွေနဲ့ ထိမ်းသိမ်းနိုင်တယ်လို့ တချို့ programmer တွေကယုံကြည်ကြပါတယ်။ သူတို့တွေက တင်းကြပ်တဲ့ program တစ်ခုအတွက် အကောင်းဆုံးဖြစ်နိုင်သော စည်းမျဉ်းစည်းကမ်းတွေ("best practices")ကို သတ်မှတ်ကြပြီးတော့ ထိုစည်းမျဉ်းစည်းကမ်းများလိုက်နာပြီးတော့ လုပ်ဆောင်ကြပါတယ်။
+
 Some programmers believe that this complexity is best managed by using
 only a small set of well-understood techniques in their programs. They
 have composed strict rules ("best practices") prescribing the form
@@ -143,6 +161,8 @@ programs should have and carefully stay within their safe little
 zone.
 
 {{index experiment}}
+
+ထိုအရာဟာ ပျင်းရိဖို့ကောင်းရုံသာမက ထိရောက်မှုလည်းမရှိပါဘူး။ ပြဿနာအသစ်တွေမှာ ဖြေရှင်းချက်အသစ်တွေလိုအပ်နိုင်ပါတယ်။ Programming နယ်ပယ်ဟာ သက်တမ်းနုနည်ပြီးတော့ အလျှင်အမြန် တိုးတက်နေဆဲဖြစ်ပါတယ်။ တူညီတဲ့ ရလဒ်တွေကိုလည်း မတူညီတဲ့ဖြေရှင်းနည်းတွေနဲ့ ဖြေရှင်းနိုင်ပါတယ်။ Programming မှာ အလွန်ဆိုရွားလှတဲ့ အမှားတွေရှိပါတယ်။ သင်ဟာ ထိုအမှားတွေကို စမ်းလုပ်ကြည့်ပြီးတော့ နားလည်အောင်လုပ်ထားသင့်ပါတယ်။ Program ကောင်းတစ်ခုဆိုတာဟာ ထပ်ခါထပ်ခါလေ့ကျင့်ပြီးတော့ ရလာတဲ့ရလဒ်ပါ၊ စည်းမျဉ်းစည်းကမ်းတွေကနေ သင်ယူရတာမျိုးလုံးဝမဟုတ်ပါဘူး။
 
 This is not only boring, it is ineffective. New problems often
 require new solutions. The field of programming is young and still
@@ -152,9 +172,13 @@ program design, and you should go ahead and make them so that you
 understand them. A sense of what a good program looks like is
 developed in practice, not learned from a list of rules.
 
+## ကွန်ပျူတာ ဘာသာစကား အရေးကြီးရသော အကြောင်းအရင်း
+
 ## Why language matters
 
 {{index "programming language", "machine code", "binary data"}}
+
+ကွန်ပျူတာတွေပေါ်ခါစမှာ programming တွေဆိုတာမရှိခဲ့ပါဘူး။ ထိုအချိန်က Programming ဆိုတာဒီလိုပုံစံတွေမျိုးပါ။
 
 In the beginning, at the birth of computing, there were no programming
 languages. Programs looked something like this:
@@ -173,6 +197,8 @@ languages. Programs looked something like this:
 
 {{index [programming, "history of"], "punch card", complexity}}
 
+အထက်မှာပြထားတဲ့ ကိန်းဂဏန်းတွေဟာ ၁ ကနေ ၁၀ ထိ ပေါင်းတဲ့ ရလဒ် `၁ + ၂ + ... + ၁၀ = ၅၅` ကိုရှာတဲ့ program ပါ။ ထို program ကို တွေ့ရာစက်တိုင်းမှာ အသုံးပြုနိုင်ပါတယ်။ ထိုခေတ်အခါက ကွန်ပျူတာတွေကို program ရေးတော့မယ်ဆိုရင် ကြီးမားရှည်လျှားတဲ့ ခလုပ်တွေကို မှန်ကန်တဲ့ နေရာမှာလိုက်ထားပြီးတော့ သို့မဟုတ် လျှပ်စစ်ဘုတ်ပြားတွေကို သတ်ဆိုင်ရာနေရာတွေမှာ အပေါက်တွေဖောက်ပြီးတော့ ကွန်ပျူတာတဲ့ ထည့်ပြီးအသုံးပြုရပါတယ်။ ဤနည်းလမ်းဟာ အလွန် လက်ပေါက်ကပ်ပြီးတော့ အမှားများနိုင်တာကို သင်တွေးကြည့်ရုံနဲ့သိနိုင်ပါတယ်။ အလွန်လွယ်ကူတဲ့ program တစ်ခုကိုတောင်မှ တော်တော်ကြွမ်းကျင်ပြီး အကြိမ်ကြိမ်လုပ်ဖူးနေမှ ရေးနိုင်ပါလိမ့်မယ်။ ရှုပ်ထွေးတဲ့ program တွေသာဆိုရင်တော့ မတွေးဝန့်စရာပါပဲ။
+
 That is a program to add the numbers from 1 to 10 together and print
 out the result: `1 + 2 + ... + 10 = 55`. It could run on a simple,
 hypothetical machine. To program early computers, it was necessary to
@@ -184,12 +210,16 @@ were nearly inconceivable.
 
 {{index bit, "wizard (mighty)"}}
 
+သို့ပေမဲ့လည်း ဒီလိုမျိုး ကိုယ်တိုင် ၁ နဲ့ ၀ တွေ လိုက်ထည့်နေရတာဟာ programmer တွေအတွက်တော့ မှော်ဆရာတစ်ယောက်လို တချို့သောအမြင်တွေပွင့်လမ်းစေပါတယ်။ ထို့နောက် အဲ့လိုလုပ်ရကျိုးနပ်တဲ့ စိတ်ကျေနပ်မှုကိုလည်း ပြန်ရစေပါတယ်။
+
 Of course, manually entering these arcane patterns of bits (the ones
 and zeros) did give the programmer a profound sense of being a mighty
 wizard. And that has to be worth something in terms of job
 satisfaction.
 
 {{index memory, instruction}}
+
+ခုဏက program မှာ ကွန်ပျူတာကို ညွှန်ကြားချက်တွေ တစ်ကြောင်းချင်းစီ ပါဝင်ပါတယ်။ ထိုညွှန်ကြားချက်တွေကို အင်္ဂလိပ်လို အောက်မှာပြထားသလိုပြန်ရေးနိုင်ပါတယ်။
 
 Each line of the previous program contains a single instruction. It
 could be written in English like this:
@@ -206,6 +236,8 @@ could be written in English like this:
 9. Output the value of memory location 0.
 
 {{index readability, naming, binding}}
+
+အထက်မှာရေးခဲ့တာတွေဟာ bits(၀ နဲ့ ၁ တွေ) ထက်တော့ဖတ်ရတာ ပိုပြီးနားလည်လွယ်ပေမဲ့ နည်းနည်းရှုပ်ထွေးနေတုန်းပါပဲ။ မှတ်ဉာဏ်အခန်းနံပါတ်တွေ၊ ညွှန်ကြားချက်နံပါတ်တွေ သုံးမဲ့အစား နာမည်တွေသာ သုံးမယ်ဆိုရင် ပိုပြီးလွယ်ကူမှာပါ။
 
 Although that is already more readable than the soup of bits, it is
 still rather obscure. Using names instead of numbers for the
@@ -226,6 +258,10 @@ instructions and memory locations helps.
 ```
 
 {{index loop, jump, "summing example"}}
+
+အခုဆိုရင် program တွေအလုပ်လုပ်ပုံကို သင်သဘောပေါက်လာပြီလို့ထင်ပါတယ်။ ပထမ နှစ်ကြောင်းမှာ မှတ်ဉာဏ်အခန်း ၂ ခု ထဲကို ကိန်းဂဏန်းတွေ အစအနေနဲ့ထည့်လိုက်ပါတယ်။ `total` ကို နောက်ဆုံးအဖြေထုတ်ဖို့အတွက်အသုံးပြုပြီးတော့ `count` ကိုတော့ လက်ရှိတွက်ချက်တဲ့ ကိန်းဂဏန်းတွေကို မှတ်ဖို့အသုံးပြုပါတယ်။ `compare` ကို အသုံးပြုတဲ့ တစ်ကြောင်းကတော့ နည်းနည်းကြောင်တောင်တောင်ဖြစ်နေမယ်ထင်ပါတယ်။ program က `count` ထဲရှိတဲ့နံပါတ်က ၁၁ လားဆိုတာကို စစ်ချင်တာပါ၊ အကယ်၍ ၁၁ သာဖြစ်ခဲ့ရင် program ကိုရပ်နိုင်အောင်လို့ပါ။ ဘာလို့ဒီလိုလုပ်ရလဲဆိုတော့ စက်တွေဟာ ငတုံးငအတွေပါ၊ သူတို့ဟာ ကိန်းဂဏန်းတစ်ခုကို ၀ ဖြစ်လားမဖြစ်လားပဲ စစ်ပြီးတော့ပဲ ဆုံးဖြတ်ချက်တွေချနိုင်ပါတယ်။ ထို့ကြောင့် `compare` လို့နာမည်တပ်ထားတဲ့ မှတ်ဉာဏ်အခန်းကို သုံးပြီးတော့ `count - 11` ရဲ့ရလဒ်ကို တွက်ချက်ပါတယ်။ ထို့နောက် ထွက်လာတဲ့ရလဒ်ပေါ်မူတည်ပြီး ဆုံးဖြတ်ချက်ချရပါတယ်။ နောက်ထပ်နှစ်ကြောင်းမှာကတော့ `count` မှာရှိတဲ့ ဂဏန်းကို `total` ထဲကိုပေါင်းထည့်ပြီးတော့ program က `count` ထဲကကိန်းဂဏန်း ၁၁ မရောက်သေးသ၍ `count` ကို ၁ ထပ်တိုးပါတယ်။
+
+အဲ့ဒါကို Javascript မှာ အောက်လိုရေးနိုင်ပါတယ်။
 
 Can you see how the program works at this point? The first two lines
 give two memory locations their starting values: `total` will be used
@@ -255,6 +291,8 @@ console.log(total);
 
 {{index "while loop", loop, [braces, block]}}
 
+ဒီတစ်ခါမှာတော့ ပိုပြီးတော့ တိုးတက်မှုတွေ တွေ့ရမှာပါ။ အရေးကြီးဆုံးက program ကို ဘယ်ကနေဘယ်ကိုသွားပါ ဆိုတာတွေ ညွှန်ကြားစရာမလိုတော့ဘူး။ `while` ဆိုတဲ့ အသုံးလေးက ထိုအရာကို လုပ်ဆောင်ပေးသွားတာပါ။ သူက စစ်ဆေးခိုင်းထားတဲ့ စည်းမျဉ်းနဲ့ကိုက်ညီနေသ၍ သူ့အထဲမှာရှိတဲ့ ညွှန်ကြားချက်(တွန့်ကွင်းနဲ့ဝိုက်ထားတာ) ကိုဆက်လုပ်နေမှာပါ။ ထိုစည်းမျဉ်းကတော့ `count <= 10` ဖြစ်ပါတယ်၊ ဆိုလိုတာကတော့ "*count* is less than or equal to 10" ဖြစ်ပါတယ်။ စိတ်ဝင်စားစရာမကောင်းတဲ့ ၀ ဖြစ်မဖြစ် စစ်ဆေးဖို့ကို ခေတ်တခဏ သိုလှောင်ဖို့အတွက် စီစဉ်စရာမလိုတော့ပါဘူး။ Programming ရဲ့အားသာချက်ကတော့ ထိုကဲ့သို့ စိတ်ဝင်စားစရာမကောင်းတဲ့ အသေးစိတ်ကိစ္စလေးတွေကို ကြားထဲကလုပ်ဆောင်ပေးနိုင်တာပဲဖြစ်ပါတယ်။
+
 This version gives us a few more improvements. Most important, there
 is no need to specify the way we want the program to jump back and
 forth anymore. The `while` construct takes care of that. It continues
@@ -267,10 +305,14 @@ that they can take care of uninteresting details for us.
 
 {{index "console.log"}}
 
+Program ရဲ့နောက်ဆုံးမှာတော့ `while` ထဲက လုပ်ဆောင်ချက်တွေအားလုံးပြီးသွားတဲ့အခါမှာ `console.log` ဆိုတဲ့ ညွှန်ကြားချက်နဲ့ အဖြေကို ထုတ်ပြလိုက်တာပါ။
+
 At the end of the program, after the `while` construct has finished,
 the `console.log` operation is used to write out the result.
 
 {{index "sum function", "range function", abstraction, function}}
+
+အကယ်၍သား program ကို သက်သက်သာသာရေးလို့ရမဲ့ `range` နဲ့ `sum` တို့လို လုပ်ဆောင်နိုင်စွမ်းတွေသာရှိမယ်ဆိုရင် ကျွန်ုပ်တို့ရဲ့ program ကအောက်ကလိုမြင်ရမှာပါ။ အောက်ကရေးနည်းမှာ နံပါတ်တွေကို သူ့ဘာသူ ပေးထားတဲ့ အကွားအဝေးအတိုင်း အစဉ်လိုက်ပြုလုပ်သွားပြီးတော့ တွက်ချက်သွားတာကို တွေ့မြင်ရမှာပါ။
 
 Finally, here is what the program could look like if we happened to
 have the convenient operations `range` and `sum` available, which
@@ -284,6 +326,8 @@ console.log(sum(range(1, 10)));
 
 {{index readability}}
 
+အခုဖော်ပြသွားတာတွေကို ကောက်ချက်ချလိုက်ရင်တော့ တူညီတဲ့ program တစ်ခုကို တိုတိုလေးဖြစ်စေ၊ အရှည်ဖြစ်စေ၊ ဖတ်လို့မရသောနည်းဖြစ်စေ၊ ဖတ်လို့ရတဲ့နည်းနဲ့ဖြစ်စေ ကြိုက်သလိုရေးလို့ရတာကိုတွေ့မြင်ရမှာပါ။ ပထမဆုံး ရေးနည်းကတော့ တော်တော်ကို ဖတ်လို့မရတာထင်ရှားပါတယ်။ ထို့အတူနောက်ဆုံးနည်းလမ်းမှာကတော့ `range` ၁ ကနေ ၁၀ ထိကို `sum` ပြီးတော့ `log` ထုတ်ပြပါ ဆိုပြီးတော့ ပုံမှန်စကားပြောတဲ့နီးပါး ဖတ်လို့ရနေပါတယ်။ (ကျွန်ုပ်တို့တွေ [နောက်လာမဲ့အခန်းတွေမှာ](data) `sum` နဲ့ `range` တို့လိုမျိုးတူညီးတာမျိုးတွေရဲ့ သုံးနည်းတွေကို တွေ့မြင်လာရမှာပါ။)
+
 The moral of this story is that the same program can be expressed in
 both long and short, unreadable and readable ways. The first version of the
 program was extremely obscure, whereas this last one is almost
@@ -292,6 +336,8 @@ will see in [later chapters](data) how to define operations like `sum`
 and `range`.)
 
 {{index ["programming language", "power of"], composability}}
+
+ကောင်းမွန်တဲ့ programming language ဟာ programmer ကို လွယ်ကူမြင်သာစေတဲ့ ညွှန်ကြားမှုမျိုးတွေနဲ့ ကွန်ပျူတာကို ခိုင်းစေနိုင်အောင်ကူညီပေးပါတယ်။ အခြေခံလုပ်ဆောင်ချက်တွေဖြစ်တဲ့ `while` နဲ့ `console.log` တို့လို လုပ်ဆောင်ချက်တွေပေးပါတယ်။ ထို့လုပ်ဆောင်ချက်တွေဟာ `sum` နဲ့ `range` တို့လို့တူညီတဲ့ လုပ်ဆောင်နိုင်စွမ်းတွေကို သင်ကိုယ်တိုင်ဖန်တီးတဲ့နေရာမှာအသုံးပြုနိုင်ပါတယ်။
 
 A good programming language helps the programmer by allowing them to
 talk about the actions that the computer has to perform on a higher
